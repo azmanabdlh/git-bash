@@ -1,10 +1,7 @@
 package main
 
-import "fmt"
-
-const (
-	L = "Laki-laki"
-	P = "Perempuan"
+import (
+	"fmt"
 )
 
 type User struct {
