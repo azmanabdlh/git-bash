@@ -2,11 +2,6 @@ package main
 
 import "fmt"
 
-const (
-	L = "Laki-laki"
-	P = "Perempuan"
-)
-
 type User struct {
 	FullName string
 	Gender   string
