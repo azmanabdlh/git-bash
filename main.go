@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+
 type User struct {
 	FullName string
 	Gender   string
